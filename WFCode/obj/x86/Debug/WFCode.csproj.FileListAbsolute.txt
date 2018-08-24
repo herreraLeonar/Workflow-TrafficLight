@@ -1,0 +1,10 @@
+C:\Users\Leonar\source\repos\Wf-HelloWorld\WFCode\bin\Debug\WFCode.exe.config
+C:\Users\Leonar\source\repos\Wf-HelloWorld\WFCode\bin\Debug\WFCode.exe
+C:\Users\Leonar\source\repos\Wf-HelloWorld\WFCode\bin\Debug\WFCode.pdb
+C:\Users\Leonar\source\repos\Wf-HelloWorld\WFCode\bin\Debug\HelloWorldActivities.dll
+C:\Users\Leonar\source\repos\Wf-HelloWorld\WFCode\bin\Debug\HelloWorldActivities.pdb
+C:\Users\Leonar\source\repos\Wf-HelloWorld\WFCode\obj\x86\Debug\WFCode.csprojAssemblyReference.cache
+C:\Users\Leonar\source\repos\Wf-HelloWorld\WFCode\obj\x86\Debug\WFCode.csproj.CoreCompileInputs.cache
+C:\Users\Leonar\source\repos\Wf-HelloWorld\WFCode\obj\x86\Debug\WFCode.csproj.CopyComplete
+C:\Users\Leonar\source\repos\Wf-HelloWorld\WFCode\obj\x86\Debug\WFCode.exe
+C:\Users\Leonar\source\repos\Wf-HelloWorld\WFCode\obj\x86\Debug\WFCode.pdb

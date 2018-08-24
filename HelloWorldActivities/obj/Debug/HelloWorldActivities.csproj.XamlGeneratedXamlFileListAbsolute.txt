@@ -1,0 +1,8 @@
+obj\Debug\HelloWorld.g.xaml
+obj\Debug\SaitItTwice.g.xaml
+obj\Debug\RandomLooper.g.xaml
+obj\Debug\TrafficLight.g.xaml
+obj\Debug\HelloWorldActivities_HelloWorld_BeforeInitializeComponentHelper.txt
+obj\Debug\HelloWorldActivities_SaitItTwice_BeforeInitializeComponentHelper.txt
+obj\Debug\HelloWorldActivities_RandomLooper_BeforeInitializeComponentHelper.txt
+obj\Debug\HelloWorldActivities_TrafficLight_BeforeInitializeComponentHelper.txt

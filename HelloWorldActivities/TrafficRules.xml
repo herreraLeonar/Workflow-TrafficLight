@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TrafficRules>
+  <redrules name="Red Light">
+    <time>5</time>
+  </redrules>
+  <yellowrules name="Green Light">
+    <time>3</time>
+  </yellowrules>
+  <greenrules name="Yellow Light">
+    <time>1</time>
+  </greenrules>
+</TrafficRules>

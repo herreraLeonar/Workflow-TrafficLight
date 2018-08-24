@@ -1,0 +1,12 @@
+obj\Debug\_HelloWorldActivities.g.cs
+obj\Debug\HelloWorld.g.cs
+obj\Debug\SaitItTwice.g.cs
+obj\Debug\RandomLooper.g.cs
+obj\Debug\TrafficLight.g.cs
+obj\Debug\HelloWorldActivities_HelloWorld_BeforeInitializeComponentHelper.cs
+obj\Debug\HelloWorldActivities_SaitItTwice_BeforeInitializeComponentHelper.cs
+obj\Debug\HelloWorldActivities_RandomLooper_BeforeInitializeComponentHelper.cs
+obj\Debug\HelloWorldActivities_TrafficLight_BeforeInitializeComponentHelper.cs
+C:\Users\Leonar\source\repos\Wf-HelloWorld\HelloWorldActivities\obj\Debug\HelloWorldActivities_HelloWorld_CompiledExpressionRoot.cs
+C:\Users\Leonar\source\repos\Wf-HelloWorld\HelloWorldActivities\obj\Debug\HelloWorldActivities_RandomLooper_CompiledExpressionRoot.cs
+C:\Users\Leonar\source\repos\Wf-HelloWorld\HelloWorldActivities\obj\Debug\HelloWorldActivities_TrafficLight_CompiledExpressionRoot.cs
